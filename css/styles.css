@@ -1,0 +1,194 @@
+body {
+    margin: 0;
+    color: #40514E;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+ 
+ 
+.top-container {
+    background-color: #eeeeee;
+    padding-top: 100px;
+    position: relative;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+    
+    
+}
+
+hr {
+    background-color: white;
+     border-style: none;
+     border-top-style: dotted;
+     border-color: grey;
+     border-width: 5px;
+     width: 5%;
+     margin: 100px auto 100px auto;
+     
+}
+
+
+
+h1 {
+    font-size: 5.625rem;
+    color: #00adb5;
+    margin: 50px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    
+}
+
+h2 {
+    font-size: 2.0rem;
+    color: #00adb5;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.subtitle {
+    font-weight: normal;
+}
+
+.profile {
+    width: 50%;
+    margin: auto;
+    line-height: 2;
+}
+
+.Profile-descriptions {
+    width: 65%;
+    margin: auto;
+}
+
+p {
+    color: #40514E;
+    font-weight: 700;
+    line-height: 2;
+}
+
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+    
+}
+
+.code-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.wordpress-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    
+}
+
+.profile-img {
+    margin-top: 70px;
+}
+
+
+
+
+.footer-link {
+    color: #11999E;
+    margin: 0px 30px 30px;
+    
+}
+a:hover.footer-link {
+    text-decoration: none;
+    color: oldlace;
+}
+
+a:link.footer-link {
+    text-decoration: none;
+  }
+
+.footer-bottom-text {
+    font-size: 10px;
+    margin-top: 50px;
+}
+
+
+.web {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+
+
+.BUTTON {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 12px;
+    background-color: #3D94F6;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    
+ }
+
+.BUTTON:hover {
+   
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   
+   text-decoration: none;
+}
+ 
+ 
+ .contact-me {
+     width: 50%;
+     margin: auto;
+ }
+
+ .contact-heading {
+     margin-bottom: 50px;
+ }
+
+ .contact-sub {
+    margin-bottom: 50px;
+ }
+
+ .contact-p {
+      width: 70%;
+      margin: auto;
+ }
+ 
